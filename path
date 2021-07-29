@@ -1,0 +1,4 @@
+adding VC sode to PATH, so can use code . in CMD
+setx path "%path%;C:\{username}\RomanBegun\AppData\Local\Programs\Microsoft VS Code\bin"
+
+change {username} to actual user name!
